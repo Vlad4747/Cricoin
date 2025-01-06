@@ -1,5 +1,5 @@
 
-token = "7705388740:AAHaph8GFF6jiMiqZgnB3LGGoguZfz8wFSM"
+token = "7812675289:AAFQ0DSBLvdSaI3j_l9ncCv0oYgxUPQUxwg"
 bot_id = 7705388740
 botname = 'Cricoin_bot'
 
